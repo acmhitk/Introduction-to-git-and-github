@@ -16,3 +16,5 @@
 - [ ] Step 6 if you want to remove a file from stage to untracked (git reset filename)
 - [ ] Step 7 Commit the changes `git commit -m "message to commit"` 
 - [ ] Step 8 Publish to github 
+
+Please follow the [Contribution guidelines](/Contrib.md)
