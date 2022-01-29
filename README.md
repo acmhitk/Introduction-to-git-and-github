@@ -15,6 +15,9 @@
 - [ ] Step 5 add the untracked file/files to the stage (git add filename / git add . / git add [patterns] )
 - [ ] Step 6 if you want to remove a file from stage to untracked (git reset filename)
 - [ ] Step 7 Commit the changes `git commit -m "message to commit"` 
-- [ ] Step 8 Publish to GitHub 
+- [ ] Step 8 git branch -b [branch name]
+- [ ] Step 9 git remote add origin https://github.com/ [username] / [repsitory name].git
+- [ ] Step 10 git push -u origin [branch name]
+- [ ] Step 11 Publish to GitHub 
 
 Please follow the [Contribution guidelines](/Contrib.md)
