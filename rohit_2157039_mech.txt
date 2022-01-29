@@ -1,0 +1,3 @@
+Hello Rohit this side. I am currently in first year studying mechanical engineering from Heritage
+Institute of Technology Kolkata.
+I am learning dsa in cpp and also trying to learn git and github.
